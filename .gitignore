@@ -1,0 +1,4 @@
+outputs_main/*
+outputs_convert/*
+*.pdf
+!.gitkeep

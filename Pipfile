@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyautogui = "*"
+opencv-python = "*"
+img2pdf = "*"
+numpy = "*"
+
+[dev-packages]
+autopep8 = "*"
+
+[requires]
+python_version = "3.8"
+
+[scripts]
+capture = "python capture.py"
+convert = "python convert.py"

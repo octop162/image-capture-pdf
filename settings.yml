@@ -1,0 +1,9 @@
+CAPTURE:
+  PAGES: 2
+  SLEEP_TIME: 0.3
+CONVERT:
+  BEFORE_DIR: "./outputs_main"
+  AFTER_DIR: "./outputs_convert"
+  BEFORE_EXTENSION: "png"
+  AFTER_EXTENSION: "png"
+  SCALE: 1.0
